@@ -1,10 +1,25 @@
 # 准备
 
-1. 注册 GitHub 账号
+:::::: tip 1. 注册 GitHub 账号
    xn--github-oy7ry56d.com,点击"Sign up"注册按钮。
    选择用户名、输入 email、密码并验证,点击"Create an account"。
-   验证邮箱地址,完成注册。
-2. 创建 SSH 密钥
+   验证邮箱地址,完成注册
+:::
+   ![image](../assets/img%20(1).png)
+   ![image](../assets/img%20(2).png)
+   ![image](../assets/img%20(3).png)
+   ![image](../assets/img%20(4).png)
+   ![image](../assets/img%20(5).png)
+   ![image](../assets/img%20(6).png)
+   ![image](../assets/img%20(7).png)
+   ![image](../assets/img%20(8).png)
+   ![image](../assets/img%20(9).png)
+   ![image](../assets/img%20(10).png)
+   ![image](../assets/img%20(11).png)
+   ![image](../assets/img%20(12).png)
+   ![image](../assets/img%20(13).png)
+ ::: tip 2. 创建 SSH 密钥
+:::
    打开 Git Bash,输入:
    bash
    ssh-keygen -t rsa -C "your_email@example.com"
