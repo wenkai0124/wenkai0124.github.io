@@ -40,6 +40,6 @@ pnpm exec vitepress init
 ![image](./../assets/img38.png)
 
 > 出现以下页面就说明项目已经跑成功了
-> 本地地址是 http://localhost:5173/
+> 本地地址是 图示的地址
 
 通过浏览器直接访问该地址就能看到相应页面了
