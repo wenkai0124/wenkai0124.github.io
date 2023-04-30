@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "赵文凯的博客",
+  description: "毕业设计",
   srcDir: 'docs',
   head: [
     ['link', { rel: "icon", href: "/assets/favicon.ico" }],
@@ -33,12 +33,12 @@ export default defineConfig({
       "/zhunbei": [{
         text: '准备',
         items: [
-          { text: '准备', link: '/zhunbei/main' },
+          { text: '准备之前的思考', link: '/zhunbei/main' },
           { text: 'github 准备', link: '/zhunbei/github' },
           { text: 'git 准备', link: '/zhunbei/git' },
           { text: 'node 准备', link: '/zhunbei/node' },
           { text: 'vscode 准备', link: '/zhunbei/vscode' },
-          { text: 'chrome 准备', link: '/zhunbei/chrome' },
+          { text: 'vitepress 准备', link: '/zhunbei/vitepress' },
         ]
       }],
       '/md': [{

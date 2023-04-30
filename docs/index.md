@@ -10,8 +10,8 @@ hero:
     src: /assets/logo.png
   actions:
     - theme: brand
-      text: 来吧展示
-      link: /home/main
+      text: 前期思考
+      link: /zhunbei/main
     - theme: alt
       text: 围观一下博主
       link: /aboutMe/main

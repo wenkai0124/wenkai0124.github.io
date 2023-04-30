@@ -14,5 +14,5 @@
 - <span class="cor-tip">要构建并部署,使用 npm run build 构建,然后将.vitepress/dist 文件夹部署至静态网站主机。</span>
 - _通过学习这个实例,我们全面地学习了如何使用 VitePress 创建一个博客网站,掌握了 VitePress 的配置、主题选择、文章撰写、预览和部署等方法。_
 - _可以将这些技能运用到实际的博客开发中,使用 VitePress 快速搭建自己的技术博客。_
--  **<span class="cor-da">VitePress 以其性能优异和简单易用的特点,正成为前端开发者写作博客和开发文档的不二选择。</span>**
+- **<span class="cor-da">VitePress 以其性能优异和简单易用的特点,正成为前端开发者写作博客和开发文档的不二选择。</span>**
 - <span class="cor-tip"> _希望通过本文能够帮助你全面学习掌握使用 VitePress 搭建博客网站的方法,并将这些技能运用于实际写作和开发中。_</span>
