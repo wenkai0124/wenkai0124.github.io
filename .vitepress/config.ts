@@ -2,15 +2,22 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  // 页面名称
   title: "赵文凯的博客",
   description: "毕业设计",
+  // 跟地址文件夹
   srcDir: 'docs',
+  // 头文件
   head: [
+    // 网页图标
     ['link', { rel: "icon", href: "/assets/favicon.ico" }],
+    // 全局样式
     ['link', { rel: 'stylesheet', href: '/style/index.css' }],
   ],
   themeConfig: {
+    // logo图标
     logo: '/assets/favicon.ico',
+    // md文件显示标题层级
     outline: [2, 3],
     // https://vitepress.dev/reference/default-theme-config
     nav: [
